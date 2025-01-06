@@ -1,0 +1,9 @@
+ML+OPS
+1.Data
+2.EDA
+3.FE-> FEATURE ENG
+4.mODEL
+5.Evaluation mODEL
+6.Deploy
+7.Monitor
+8.Retrain
